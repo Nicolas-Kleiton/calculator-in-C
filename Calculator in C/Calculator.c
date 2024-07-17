@@ -27,7 +27,7 @@ int main() {
         if (num2 == 0) {
             printf("\nCannot divide by 0");
         } else {
-        printf("\nResult: %.2f", num1/num2);
+            printf("\nResult: %.2f", num1/num2);
         }
         break;
    default: 
